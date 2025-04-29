@@ -34,6 +34,22 @@ profiles:
     url: https://github.com/KalashnikovaProgrammingAccount
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
+  - icon: brands/python
+    icon_pack: fab
+    url: https://www.elibrary.ru/defaultx.asp?
+  - icon: brands/orcid
+    icon_pack: fab
+    url: https://orcid.org
+  - icon: brands/code-bracket
+    url: https://www.mendeley.com/search/
+  - icon: brands/chart-bar
+    icon_pack: fab
+    url: https://www.researchgate.net
+  - icon: brands/circle-stack
+    url: https://www.academia.edu
+  - icon: brands/arxiv
+    icon_pack: fab
+    url: https://arxiv.org/user/
 
 interests:
   - Программирование
